@@ -1,4 +1,5 @@
-Introduction
+#Introduction
+
 This project presents a novel graph-based deep learning framework to classify pulmonary diseases from chest X-ray images. Traditional CNNs often fail to capture fine-grained spatial relationships in medical images. To overcome this, we propose transforming X-ray images into graph representations using super pixel segmentation and applying Graph Attention Networks (GAT) to extract meaningful features, improving diagnostic performance. The approach was implemented as part of a summer internship at Pondicherry University under the guidance of Dr. R. Sunitha.
 
 
