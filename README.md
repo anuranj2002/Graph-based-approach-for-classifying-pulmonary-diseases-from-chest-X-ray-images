@@ -3,21 +3,21 @@ This project presents a novel graph-based deep learning framework to classify pu
 
 
 Technologies Used
-•	Python
-•	PyTorch / TensorFlow (based on your implementation – update accordingly)
-•	OpenCV & NumPy
-•	scikit-image (for SLIC superpixel segmentation)
-•	NetworkX / DGL / PyTorch Geometric (for graph creation and manipulation)
-•	Matplotlib / Seaborn (for visualizations)
+Python
+PyTorch / TensorFlow (based on your implementation – update accordingly)
+OpenCV & NumPy
+scikit-image (for SLIC superpixel segmentation)
+NetworkX / DGL / PyTorch Geometric (for graph creation and manipulation)
+Matplotlib / Seaborn (for visualizations)
 
 
 Dataset
 MIMIC-CXR-JPG v2.0.0
-•	Sourced from PhysioNet
-•	Contains 377,000+ chest X-ray images
-•	Annotations derived from 227,827 radiology reports
-•	Fully de-identified and HIPAA-compliant
-•	JPG format, labeled for multiple pulmonary conditions
+Sourced from PhysioNet
+Contains 377,000+ chest X-ray images
+Annotations derived from 227,827 radiology reports
+Fully de-identified and HIPAA-compliant
+JPG format, labeled for multiple pulmonary conditions
 
 
 Methodology / Project Workflow
